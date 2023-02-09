@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "624556727a2c782be726ee40"
+  },
+  "name": "Detective",
+  "image": "https://almabooks.com/wp-content/uploads/2016/10/adventures-of-Sherlock-Holmes.jpg"
+},{
+  "_id": {
+    "$oid": "624556727a2c782be726ee3e"
+  },
+  "name": "Manga - Comic",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800"
+},{
+  "_id": {
+    "$oid": "624556727a2c782be726ee3f"
+  },
+  "name": "Classic",
+  "image": "https://m.media-amazon.com/images/I/41tAv3Df-IL.jpg"
+},{
+  "_id": {
+    "$oid": "624556727a2c782be726ee42"
+  },
+  "name": "Economic - Business",
+  "image": "https://d29xot63vimef3.cloudfront.net/image/economics-books/269-4.jpg"
+},{
+  "_id": {
+    "$oid": "624556727a2c782be726ee41"
+  },
+  "name": "Romance",
+  "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-romance-books-1591633076.jpg?crop=0.502xw:1.00xh;0.210xw,0&resize=640:*"
+}]

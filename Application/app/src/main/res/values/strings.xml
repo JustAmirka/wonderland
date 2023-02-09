@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Basalasa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_password">Change password</string>
+    <string name="logout">Logout</string>
+    <string name="change_address">Change address</string>
+    <string name="settings">Settings</string>
+    <string name="new_password">New password</string>
+    <string name="retype_new_password">Retype new password</string>
+    <string name="save">Save</string>
+    <string name="full_name">Full name</string>
+    <string name="phone">Phone</string>
+    <string name="confirm">Confirm</string>
+    <string name="addToCard">ADD TO CART</string>
+    <string name="description">Description</string>
+    <string name="relatedBook">Related books</string>
+    <string name="oldPrice"><strike>500.000</strike></string>
+    <string name="detail">Details</string>
+    <string name="order">ORDERS</string>
+    <string name="accountList">ACCOUNT LIST</string>
+    <string name="request">REQUESTS</string>
+    <string name="orderList">ORDER LIST</string>
+    <string name="product">PRODUCTS</string>
+    <string name="account_list">Account list</string>
+    <string name="account_management">Account Management</string>
+    <string name="home">Home</string>
+    <string name="category">Explore</string>
+    <string name="account">Account</string>
+    <string name="checkout">Checkout</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="my_cart">My cart</string>
+    <string name="send">Send</string>
+    <string name="filter">Filter</string>
+    <string name="apply_filter">apply filter</string>
+    <string name="go_shopping">Go shopping</string>
+    <string name="total">Total</string>
+
+    <string-array name="Categories">
+        <item>Manga - Comic</item>
+        <item>Foreign books</item>
+        <item>Detective</item>
+        <item>Language</item>
+        <item>Economics</item>
+    </string-array>
+    <string name="review">Review</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="related_books">Related books</string>
+    <string name="book_name">Book name</string>
+    <string name="put_on_sale">Put on sale</string>
+    <string name="new_book">New book</string>
+</resources>

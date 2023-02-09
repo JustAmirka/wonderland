@@ -1,0 +1,25 @@
+[{
+  "password": "3ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "email": "admin@gmail.com",
+  "fullName": "admin",
+  "address": "none",
+  "phone": "0933442608",
+  "role": 2,
+  "status": 1,
+  "emailToken": null,
+  "request": 0
+},{
+  "_id": {
+    "$oid": "6272b97d343982fcacb18c3e"
+  },
+  "password": "3ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "email": "seller@gmail.com",
+  "address": "none",
+  "phone": "1234567",
+  "role": 0,
+  "fullName": "seller",
+  "status": 1,
+  "emailToken": null,
+  "__v": 0,
+  "request": 1
+}]
