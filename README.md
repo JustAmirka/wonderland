@@ -54,7 +54,7 @@ The server works as a NodeJS server, connects to MongoDB.
 
 <div align="center">
   <a href="#">
-      <img src="https://sun9-76.userapi.com/impg/RGkh6nKGi-UUzSx3hGle3oV3NO946xLLxPSdMQ/zz3LJRE-7HA.jpg?size=222x627&quality=96&sign=eb61107bb99f7d3d9c61d0e9a882bfa5&type=album" alt="guide_api" width="2git init0%">
+      <img src="https://sun9-76.userapi.com/impg/RGkh6nKGi-UUzSx3hGle3oV3NO946xLLxPSdMQ/zz3LJRE-7HA.jpg?size=222x627&quality=96&sign=eb61107bb99f7d3d9c61d0e9a882bfa5&type=album" alt="guide_api" width="20%">
   </a>
 </div>
 
