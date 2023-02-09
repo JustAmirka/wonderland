@@ -5,7 +5,7 @@
     <img src="https://sun9-37.userapi.com/impg/5GqNwpBmQyDBmuKh7BrW-lHqwGh8iFe5bdqhEQ/Kix2-KEgHdM.jpg?size=300x300&quality=96&sign=fa6207c8e66722c6dce5fa2bfdc24ec4&type=album" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Native Mobile Development | Amanbek Yerasyl  - BookStore</h3>
+  <h3 align="center">Advanced Databases (NoSQL) | Sakhipov Aivar || Native Mobile Development | Amanbek Yerasyl  - BookStore</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
