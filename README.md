@@ -113,3 +113,4 @@ node server.js
 
 - Amirzhan Aytnalin
 - Alimbayeva Adelya
+- Baisariyeva Aruzhan
