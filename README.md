@@ -112,5 +112,4 @@ node server.js
 # Contributors
 
 - Amirzhan Aytnalin
-- Baisariyeva Aruzhan
-- Dauletzhanova Adela
+- Alimbayeva Adelya
